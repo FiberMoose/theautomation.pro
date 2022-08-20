@@ -2,3 +2,5 @@ title: The Automation Pro
 description: Looking to hire an Automation pro? Great! you’ve come to the right place.
 url: theautomation.pro
 theme: jekyll-theme-hacker
+github:
+  is_project_page: false
